@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36927'
     url: http://www.gutenberg.org/2009/agents/36927
 description: Epitaphs in England -- Epitaphs in Wales -- Epitaphs in Scotland -- Miscellaneous.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34273#Gleanings-in-Graveyardsa-collection-of-Curious-Epitaphs
 gutenberg_issued: '2010-11-10'
 gutenberg_type: Text
 identifiers:
