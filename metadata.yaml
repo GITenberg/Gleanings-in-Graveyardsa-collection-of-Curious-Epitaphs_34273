@@ -1,0 +1,25 @@
+_repo: Gleanings-in-Graveyardsa-collection-of-Curious-Epitaphs_34273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norfolk, Horatio Edward
+    gutenberg_agent_id: '36927'
+    url: http://www.gutenberg.org/2009/agents/36927
+description: Epitaphs in England -- Epitaphs in Wales -- Epitaphs in Scotland -- Miscellaneous.
+gutenberg_issued: '2010-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs -- Great Britain'
+- !lcsh 'Epitaphs'
+- !lcc 'PN'
+title: 'Gleanings in Graveyards: A Collection of Curious Epitaphs'
+url: http://www.gutenberg.org/ebooks/34273
